@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FocusGuard Web",
+  "description": "A web-based simulation of the FocusGuard digital wellbeing concept. Since web apps cannot block native OS applications, this demo simulates a restricted app environment where users 'launch' mock apps, track usage, and must solve AI-generated math challenges to extend their session.",
+  "requestFramePermissions": []
+}
